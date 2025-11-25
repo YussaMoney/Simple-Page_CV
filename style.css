@@ -5,3 +5,14 @@
     box-sizing: border-box;
     font-family: Georgia, Times, 'Times New Roman', serif;
 }
+
+hr {
+    border: 1px solid black;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
