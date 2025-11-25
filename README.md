@@ -27,7 +27,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Live Demo
 
-[Click here](https://)
+[Click here](https://yussamoney.github.io/Simple-Page_CV/)
 
 ## Prerequisites
 
