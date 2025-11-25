@@ -1,44 +1,51 @@
-*, h1, h2, h3, h4, h5, h6, p {
-    border: 0;
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    font-family: Georgia, Times, 'Times New Roman', serif;
+*,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Georgia, Times, "Times New Roman", serif;
 }
 
 hr {
-    border: 1px solid black;
+  border: 1px solid black;
 }
 
 body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
 .topic {
-    color: #35a149;
+  color: #35a149;
 }
 
 .sub-topic {
-    color: #3180c8;
+  color: #3180c8;
 }
 
 .mb-1 {
-    margin-bottom: 1rem;
+  margin-bottom: 1rem;
 }
 
 .lh-2 {
-    line-height: 2rem;
+  line-height: 2rem;
 }
 
 .achievements {
-    margin-left: 1.5rem;
+  margin-left: 1.5rem;
 }
 
 [contenteditable="true"]:focus {
-    border-bottom: 1px solid #868484;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
-    outline: none;
+  border-bottom: 1px solid #868484;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  outline: none;
 }
