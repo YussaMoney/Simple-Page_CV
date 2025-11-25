@@ -36,3 +36,9 @@ body {
 .achievements {
     margin-left: 1.5rem;
 }
+
+[contenteditable="true"]:focus {
+    border-bottom: 1px solid #868484;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    outline: none;
+}
