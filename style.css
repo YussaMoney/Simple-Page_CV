@@ -16,3 +16,23 @@ body {
     align-items: center;
     height: 100vh;
 }
+
+.topic {
+    color: #35a149;
+}
+
+.sub-topic {
+    color: #3180c8;
+}
+
+.mb-1 {
+    margin-bottom: 1rem;
+}
+
+.lh-2 {
+    line-height: 2rem;
+}
+
+.achievements {
+    margin-left: 1.5rem;
+}
